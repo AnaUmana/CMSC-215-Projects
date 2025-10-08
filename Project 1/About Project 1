@@ -1,0 +1,4 @@
+The following code from project 1, includes 3 classes.
+1. Height- This class is used to find the tallest basketball player whose age is less than or equal to the average of all the players. while also converting it to feet and inches
+2. Player- The Player class will store the players name, height and age and be immutable
+3. Project1- This final class will collect all the given information, get the average age and find who is the tallest.
